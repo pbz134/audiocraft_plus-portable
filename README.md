@@ -5,5 +5,4 @@ https://github.com/GrandaddyShmax/audiocraft_plus
 
 To Do:
 - Compile and add Melody model
-- Change the model path to /models
 - Fix the audio output paths
